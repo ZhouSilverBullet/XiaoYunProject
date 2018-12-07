@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="module_pattern">
+        <item>"req_speech_wakeup"</item>
+        <item>"req_speech_sleep"</item>
+        <item>"^名(字|称)错(了|误)"</item>
+        <item>"^我是谁$"</item>
+        <item>"(?&lt;=^我是|我叫)([^谁畜牲]{0,5}$)"</item>
+        <item>^删除123$</item>
+        <item>"^过来(我这儿)?$|^来这(边)?$|^跟(着)?我[走来]?$"</item>
+        <item>"^停止$|暂停|别动|停下|不要跟(着)?我|别跟(着)?(我)?了"</item>
+        <item>"(向前走|往前走|前进)(([^米]*)米?)"</item>
+        <item>"(向后退|往后退|后退)(([^米]*)米?)"</item>
+        <item>"(向左转|向左|往左转|往左|左转|旋转|转动)(([^度]*)度?)"</item>
+        <item>"(向右转|向右|往右转|往右|右转)(([^度]*)度?)"</item>
+        <item>"向后转"</item>
+        <item>"(原地)?转圈(儿)?"</item>
+        <item>"(.*)(在|但|呆|带|代|戴|待|领)(.+)(区|去|到)(.+[^吧])(吧)?"</item>
+        <item>"结束引领"</item>
+        <item>"^(去|到)(.+)"</item>
+        <item>"^(这里是|这儿是)(.+)"</item>
+        <item>"^取消导航"</item>
+        <item>"^进入诊断模式$"</item>
+        <item>"^退出(诊断模式)?$"</item>
+        <item>"^切换人体"</item>
+        <item>"^切换人脸"</item>
+        <item>"(开始接待|开始阶段)"</item>
+        <item>"(结束接待|停止接待|结束阶段)"</item>
+        <item>"退出接待"</item>
+        <item>"预约码"</item>
+    </string-array>
+</resources>

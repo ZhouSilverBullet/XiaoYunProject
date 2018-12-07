@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#EEEEEE</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="chat_item_color">#88767575</color>
+    <color name="chat_item_color_1">#88000000</color>
+
+    <!--彩虹7色-->
+    <color name="rainbow_red">#FF0000</color>
+    <color name="rainbow_orange">#FF7F00</color>
+    <color name="rainbow_yellow">#FFFF00</color>
+    <color name="rainbow_green">#00FF00</color>
+    <color name="rainbow_cyan">#00FFFF</color>
+    <color name="rainbow_blue">#0000FF</color>
+    <color name="rainbow_purple">#8B00FF</color>
+    <color name="face_bg_color">#021854</color>
+</resources>

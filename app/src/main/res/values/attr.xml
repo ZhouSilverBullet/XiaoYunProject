@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SiriView" >
+        <attr name="sv_base_value" format="integer"/>
+        <attr name="sv_wave_value" format="integer"/>
+    </declare-styleable>
+</resources>

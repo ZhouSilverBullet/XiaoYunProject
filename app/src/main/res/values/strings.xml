@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">小云机器人</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="robot_name">小云</string>
+    <string name="company_name">旭兴科技</string>
+
+    <!--命令相关指令-->
+    <string name="robot_quit">退出</string>
+    <string name="robot_open_question">打开问答</string>
+    <string name="robot_open_road">打开带路</string>
+    <string name="robot_open_camera">打开相机</string>
+    <string name="robot_open_beauty">打开美景</string>
+    <string name="report_call">大家好，我叫小云，是旭兴科技旗下，知点云产品的智能助理，热烈欢迎各位领导莅临旭兴科技指导工作</string>
+    <string name="report_luanshen">我可以陪您聊天，介绍旭兴科技公司，介绍“知点云”产品，也可以告诉您在大楼内您想去的位置</string>
+    <string name="report_go_position">旭兴科技公司是一家高科技企业，主要致力于数字孪生技术研究、开发，目前已将研究成果应用于校园和乡村振兴两个领域中。</string>
+    <string name="report_say_bye">知点云是专为K12公办学校打造的数字孪生教育SaaS平台，通过摄像头实时采集学生的微表情数据、行为、声纹等数据，形成数字孪生体，实现对孩子的个性化教育指导，心理健康预防。</string>
+    <string name="report_jieri">这个我知道，今天会在咱们旭兴科技举行“全省县（市、区）外经贸企业工会联合会工作经验交流会”，听说会有很多人来呢</string>
+    <string name="report_luanshen_jieshu">数字孪生技术是通过数字化的形式拷贝物理对象，通过传感器的更新、仿真，最终实现对物理世界预演预判的过程。</string>
+    <string name="report_laoban">李国琛是旭兴科技的CEO，特别棒的小伙子。</string>
+    <string name="report_hui_yi_neirong">是外经贸企业，工会联合会进行工作经验分享交流的会议呢。</string>
+    <string name="report_hui_yi_place">交流会将于上午10点40分在六楼会议室召开，请往东边走10米乘电梯上楼。</string>
+    <string name="report_hui_yi_keqi">不用客气，祝领导们参会顺利</string>
+    <string name="report_hui_yi_zaijian">各位领导慢走，小云一直在这等你，欢迎下次的到来</string>
+
+    <string name="Device_Control_Main">设备管理主页</string>
+    <string name="Config_Device">设备配网</string>
+    <string name="Probe_Device_List">设备局域网扫描</string>
+    <string name="My_Device_List">我的设备列表</string>
+
+    <string name="Input_SSID">请输入SSID</string>
+    <string name="Input_PASSWORD">请输入密码</string>
+    <string name="Config_2_Device">2代配网</string>
+    <string name="Config_3_Device">3代配网</string>
+    <string name="Config_AP_Device">AP配网</string>
+</resources>

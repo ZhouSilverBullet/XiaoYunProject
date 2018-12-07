@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/sayone1"
+        android:duration="0" />
+    <!--<item-->
+        <!--android:drawable="@drawable/sayone2"-->
+        <!--android:duration="0" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/sayone3"-->
+        <!--android:duration="0" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/sayone4"-->
+        <!--android:duration="0" />-->
+    <!--<item-->
+        <!--android:drawable="@drawable/sayone5"-->
+        <!--android:duration="0" />-->
+    <item
+        android:drawable="@drawable/sayone6"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone7"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone8"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone9"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone10"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone11"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone12"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone13"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone14"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone15"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone16"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone17"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone18"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone19"
+        android:duration="0" />
+    <!--<item
+        android:drawable="@drawable/sayone20"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone21"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone22"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone23"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone24"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/sayone25"
+        android:duration="0" />-->
+
+</animation-list>

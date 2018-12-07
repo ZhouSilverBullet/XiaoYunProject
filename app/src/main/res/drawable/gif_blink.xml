@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/blink1"
+        android:duration="1500" />
+    <item
+        android:drawable="@drawable/blink2"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/blink3"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/blink4"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/blink5"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/blink6"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/blink7"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/blink8"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/blink9"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/blink10"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/blink11"
+        android:duration="0" />
+    <item
+        android:drawable="@drawable/blink12"
+        android:duration="1500" />
+</animation-list>

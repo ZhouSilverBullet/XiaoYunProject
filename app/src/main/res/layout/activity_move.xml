@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    android:orientation="vertical"
+    tools:context="com.sdxxtop.robotproject.MoveActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp">
+
+            <com.sdxxtop.robotproject.widget.AutoPlayView
+                android:id="@+id/move_auto_play"
+                android:layout_width="match_parent"
+                android:layout_height="200dp" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/move_people_image"
+            android:layout_width="50dp"
+            android:layout_height="118dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="80dp" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="93dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="105dp"
+            android:layout_marginRight="100dp"
+            android:src="@drawable/map_robot_img" />
+
+        <LinearLayout
+            android:id="@+id/chat_back"
+            android:layout_width="wrap_content"
+            android:layout_height="70dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="17dp">
+
+            <ImageView
+                android:layout_width="16dp"
+                android:layout_height="25dp"
+                android:src="@drawable/chat_left_back" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="@string/robot_name"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+    <ListView
+        android:id="@+id/move_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:background="@color/transparent"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@null" />
+
+
+</LinearLayout>
+
